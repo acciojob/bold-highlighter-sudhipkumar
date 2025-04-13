@@ -10,6 +10,7 @@ function highlight() {
 }
 
 function return_normal() {
+	
     // Select all <strong> elements
     const boldElements = document.querySelectorAll('strong');
     
