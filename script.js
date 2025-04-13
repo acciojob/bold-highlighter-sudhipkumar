@@ -1,4 +1,5 @@
 function highlight() {
+	
     // Select all <strong> elements
     const boldElements = document.querySelectorAll('strong');
     
